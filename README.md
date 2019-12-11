@@ -1,1 +1,0 @@
-# Nextjs-and-Firebase

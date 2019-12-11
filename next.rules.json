@@ -1,0 +1,12 @@
+{
+  "rules": {
+    ".read": false,
+    ".write": false
+  },
+  "hosting": {
+    "public": "public"
+  },
+  "functions": {
+    "source": "functions"
+  }
+}
